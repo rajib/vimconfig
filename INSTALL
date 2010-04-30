@@ -1,2 +1,7 @@
 cd vimconfig
 mv .vim .viminfo .vimrc ~/.
+
+git mergetool -t vimdiff
+
+For vmdiff comand help
+http://www.tuxfiles.org/linuxhelp/vimcheat.html
